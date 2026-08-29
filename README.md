@@ -1,7 +1,7 @@
 ```python
 class AboutMe:
     def __init__(self):
-        self.whoami = "Software developer & designer"
+        self.whoami = "IT Student - Software developer & designer"
         self.expertise = [
             "Clean, responsive web apps",
             "UI/UX design, from Figma to shipped",
@@ -14,5 +14,5 @@ class AboutMe:
         self.testing = ["Vitest", "pytest"]
         self.design = ["Figma", "Photoshop & Illustrator", "GIMP"]
         self.tools = ["Git", "GitHub & GitLab", "Vercel", "Claude Code"]
-        self.hobbies = ["Programming", "Fitness", "Reading"]
+        self.hobbies = ["Programming", "Sports & Fitness", "Reading"]
 ```
