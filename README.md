@@ -15,5 +15,5 @@ class AboutMe:
         self.design = ["Figma", "Photoshop & Illustrator", "GIMP"]
         self.tools = ["Git", "GitHub & GitLab", "Claude Code"]
         self.databases = ["Supabase", "Firebase", "PostgreSQL"]
-        self.hobbies = ["Programming", "Fitness", "Reading"]
+        self.hobbies = ["Programming", "Fitness", "Reading", "Video games"]
 ```
